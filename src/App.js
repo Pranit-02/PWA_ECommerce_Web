@@ -33,23 +33,6 @@ const NavbarLink = styled.li`
   }
 `;
 
-const MobileNavbarMenu = styled.div`
-  display: none;
-
-  @media (max-width: 768px) {
-    display: flex;
-    align-items: center;
-    cursor: pointer;
-    margin-right: 20px;
-  }
-`;
-
-const MobileNavbarIcon = styled.div`
-  width: 25px;
-  height: 3px;
-  background-color: #fff;
-  margin-bottom: 5px;
-`;
 
 const Footer = styled.footer`
   background-color: #000;

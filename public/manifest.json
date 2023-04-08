@@ -1,10 +1,10 @@
 {
-    "short_name": "ECommerce App",
     "name": "Ecommerce PWA",
+    "short_name": "ECommerce App",
     "icons": [
         {
-            "src": "/images/logo.jpg",
-            "type": "image/jpg",
+            "src": "/images/logo.png",
+            "type": "image/png",
             "sizes": "1024x1024"
         }
     ],
